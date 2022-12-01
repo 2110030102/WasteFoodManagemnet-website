@@ -1,1 +1,1 @@
-# WasteFoodManagemnet-website
+# WasteFoodManagement-website
